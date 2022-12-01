@@ -154,6 +154,13 @@
 
 **Описание.** Приложение запускается с исполняемого файла без прав администратора
 
+<details>
+<summary>Стартовое меню.</summary>
+ 
+![Screenshot_10](https://user-images.githubusercontent.com/71733287/205043956-6091f6a1-e4f8-4b71-b8a1-a78a34cda723.png)
+
+</details>
+
 <a name="setting_up_the_profile_of_the_active_user"/>
 
 #### 3.1.1.2 Помощь в работе с приложением
