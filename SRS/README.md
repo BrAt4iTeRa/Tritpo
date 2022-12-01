@@ -23,8 +23,6 @@
 3.1.1 [Основные функции](#main_functions)  
 3.1.1.1 [Запуск приложения](#user_logon_to_the_application)  
 3.1.1.2 [Помощь в работе с приложением](#setting_up_the_profile_of_the_active_user)  
-3.1.1.3 [Завершение выбранного процесса или просмотр потоков процесса](#download_news)  
-3.1.1.4 [Просмотр общей нагрузки или отдельного процесса на CPU](#view_information_about_an_individual_newsletter)  
 3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)  
 3.2 [Нефункциональные требования](#non-functional_requirements)  
 3.2.1 [Атрибуты качества](#quality_attributes)  
